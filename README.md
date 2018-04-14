@@ -1,2 +1,3 @@
 # hello-world
-test
+Hi, this is a test file from the GitHub tutorial.
+Update 1
